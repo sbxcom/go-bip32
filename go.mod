@@ -1,4 +1,4 @@
-module github.com/revision-3/go-bip32
+module github.com/sbxcom/go-bip32
 
 go 1.22
 
